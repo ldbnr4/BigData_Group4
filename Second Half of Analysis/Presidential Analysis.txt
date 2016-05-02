@@ -1,0 +1,4 @@
+The analysis on the question: "Does the approval rating of a President influence the rate of babies named after them?" has no absolute values.
+
+In the file "approval_analysis.R" they take the name rates for the first and last name with respect to the total population. (as seen in lines 14 and 15)
+Once they ave done that, they chose to normalize them before they put them in the graphs. As a result, there were no absolute numbers that would create a discrepancy between generations due to the  differing populations.
